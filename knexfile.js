@@ -8,6 +8,11 @@ module.exports = {
       filename: './car-dealer.db3'
     },
     useNullAsDefault: true
-  },
-
+  }
+  // migrations: {
+  //   directory: "./data/migrations"
+  // },
+  // seeds: {
+  //   directory: "./data/seeds"
+  // }
 };
